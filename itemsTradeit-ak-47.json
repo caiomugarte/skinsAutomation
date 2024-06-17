@@ -1,0 +1,86 @@
+[
+  {
+    "id": "38124127732",
+    "nome": "AK-47 | Frontside Misty (Factory New)",
+    "precoTradeit": 511.73253918219996,
+    "precoSteam": 436.9,
+    "diferenca": 74.83253918219998
+  },
+  {
+    "id": 35115,
+    "nome": "AK-47 | Jaguar (Field-Tested)",
+    "precoTradeit": 480.1531926324,
+    "precoSteam": 400.09,
+    "diferenca": 80.06319263240005
+  },
+  {
+    "id": 35053,
+    "nome": "AK-47 | Aquamarine Revenge (Minimal Wear)",
+    "precoTradeit": 493.0266367334,
+    "precoSteam": 408.68,
+    "diferenca": 84.34663673339998
+  },
+  {
+    "id": "38127497495",
+    "nome": "StatTrak™ AK-47 | Wasteland Rebel (Field-Tested)",
+    "precoTradeit": 667.0545831109999,
+    "precoSteam": 576.68,
+    "diferenca": 90.37458311099999
+  },
+  {
+    "id": 63043,
+    "nome": "AK-47 | The Empress (Minimal Wear)",
+    "precoTradeit": 505.7949914948,
+    "precoSteam": 411.29,
+    "diferenca": 94.50499149479998
+  },
+  {
+    "id": 331820,
+    "nome": "AK-47 | Leet Museo (Factory New)",
+    "precoTradeit": 540.2642948836,
+    "precoSteam": 444.17,
+    "diferenca": 96.09429488359996
+  },
+  {
+    "id": 333732,
+    "nome": "AK-47 | Nightwish (Factory New)",
+    "precoTradeit": 508.47476965460004,
+    "precoSteam": 411.33,
+    "diferenca": 97.14476965460005
+  },
+  {
+    "id": "37963221143",
+    "nome": "Souvenir AK-47 | Safety Net (Factory New)",
+    "precoTradeit": 472.7443941906,
+    "precoSteam": 371.19,
+    "diferenca": 101.55439419060002
+  },
+  {
+    "id": 341017,
+    "nome": "AK-47 | Inheritance (Field-Tested)",
+    "precoTradeit": 496.2318615912,
+    "precoSteam": 392.64,
+    "diferenca": 103.59186159120003
+  },
+  {
+    "id": 35155,
+    "nome": "AK-47 | Redline (Minimal Wear)",
+    "precoTradeit": 713.2413478652,
+    "precoSteam": 584.63,
+    "diferenca": 128.61134786520006
+  },
+  {
+    "id": 35061,
+    "nome": "AK-47 | Bloodsport (Field-Tested)",
+    "precoTradeit": 766.364009033,
+    "precoSteam": 627.99,
+    "diferenca": 138.374009033
+  },
+  {
+    "id": 35103,
+    "nome": "AK-47 | Fuel Injector (Battle-Scarred)",
+    "precoTradeit": 752.1769481870001,
+    "precoSteam": 608.01,
+    "diferenca": 144.16694818700012
+  }
+]
