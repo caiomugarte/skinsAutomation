@@ -7,10 +7,11 @@ const baseURL = "https://tradeit.gg/api/v2/inventory/data";
 const params = {
   gameId: 730,
   offset: 0,
-  limit: 100,
+  limit: 1500,
   sortType: "Price - high",
   searchValue: "knife",
-  maxPrice: 171.61,
+  maxPrice: 500,
+  minPrice: 300,
   minFloat: 0,
   maxFloat: 1,
   /* type: 6, */
@@ -145,7 +146,7 @@ async function fillSteamPriceForItem(item) {
 	const steamBaseUrl = `https://steamcommunity.com/market/priceoverview`
   const response = await axios.get(steamBaseUrl, { params: steamParams });
   console.log(`Steam price for ${item.nome}:`, response.data);
-	item.precoSteam = parseFloat(response.data.lowest_price.replace(',', '.').replace('R$ ', ""));
+  item.precoSteam = parseFloat(response.data.lowest_price.replace('.', '').replace(',', '.').replace('R$ ', ""));
   /* const key = Object.keys(response.data.listinginfo)[0]; */
   /* if (key) {
     item.precoSteam = (response.data.listinginfo[key].converted_price + response.data.listinginfo[key].converted_fee) / 100;
